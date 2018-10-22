@@ -19,4 +19,5 @@ Then in the web browser of your choosing, type localhost:8000 in the address bar
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/31293098/47322352-8233e680-d64f-11e8-8fe7-aa3d1b106f34.png)
+=======
 ![image](https://user-images.githubusercontent.com/31293098/47322359-86600400-d64f-11e8-9e8c-5f369ce26ce9.png)
